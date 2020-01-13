@@ -10,5 +10,5 @@ before do
 end
 
 get '/' do
-  'こんにちは'
+  'こんばんは'
 end
